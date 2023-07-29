@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "801797000789",
+    "firebase_url": "https://geeks-47ffd-default-rtdb.firebaseio.com",
+    "project_id": "geeks-47ffd",
+    "storage_bucket": "geeks-47ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801797000789:android:d792acaf76dbe8b7120edc",
+        "android_client_info": {
+          "package_name": "com.example.firebaseconnection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801797000789-drb76rtmgvk20i82odb9s8939kbqkdp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-nuQ9QNBMQDKQePNS79b3M54TNz94eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801797000789-drb76rtmgvk20i82odb9s8939kbqkdp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
